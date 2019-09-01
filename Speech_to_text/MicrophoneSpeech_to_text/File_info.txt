@@ -1,0 +1,10 @@
+This is Python script to convert Microphone speech to the text.
+
+This will print on console and also create file for the speech. This fill print speech to the new line each and everytime. And useful for many times.
+
+For run this file you have to install Python modules in your system like SpeechRecognition(with "pip install SpeechRecognition"), PyAudio(with "pip install PyAudio") etc.
+
+Keep your internet on, while runnig this file.
+
+Read the .py file for more informations...
+
